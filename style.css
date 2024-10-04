@@ -1,0 +1,44 @@
+body {
+    background-color: #222;
+    color: whitesmoke;
+}
+
+body header img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+body header h1 {
+    width: 250px;
+    background-color: #444;
+    display: block;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Comic Sans MS, sans-serif;
+    border-radius: 10px;
+}
+
+body header p {
+    width: 550px;
+    display: block;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Comic Sans MS, sans-serif;
+    border-radius: 10px;
+}
+
+body div {
+    display: flex;
+    gap: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+body div #githubA #githubButton {
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
