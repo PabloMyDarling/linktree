@@ -48,3 +48,9 @@ body div #discordA #discordButton {
     border-radius: 20px;
     background-color: whitesmoke;
 }
+
+body div #youtubeA #youtubeButton {
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
